@@ -5,6 +5,9 @@
 **** Heading 4
 
 Plain Text
+
 This is an **emphasised** text
+
 There is another __method__
+
 This is _italicised_ text.
